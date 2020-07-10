@@ -157,15 +157,12 @@
   font-weight: 700;
   color: #000000;
   text-align: center;
+  position: relative;
+  z-index: 2;
 }
 
 .section-title_theme_dark {
-  font-size: 60px;
-  line-height: 69px;
-  font-weight: 700;
   color: #ffffff;
-  position: relative;
-  z-index: 2;
 }
 
 .section-subtitle {
@@ -176,13 +173,13 @@
   font-weight: 400;
   color: #000000;
   text-align: center;
+  position: relative;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
   margin: 0 auto 80px auto;
   color: #ffffff;
-  position: relative;
-  z-index: 2;
 }
 
 .table {
@@ -224,7 +221,6 @@
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
-  color: white;
 }
 
 .table__cell_theme_dark:nth-child(n+6) {
