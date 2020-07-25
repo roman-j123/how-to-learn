@@ -7,6 +7,7 @@
   font-weight: 400;
   color: #000000;
   text-decoration: none;
+  transition: ease-in-out .335s;
 }
 
 .feinman__link::after {
@@ -14,13 +15,6 @@
 }
 
 .feinman__link:hover{
-  color: #2f80ed;
+  opacity: .5;
 }
 
-.feinman__link:active {
-  color: #2f80ed;
-}
-
-.feinman__link:visited {
-  text-decoration: underline;
-}
