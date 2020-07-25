@@ -1,0 +1,26 @@
+.feinman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  font-size: 36px;
+  line-height: 51px;
+  font-weight: 400;
+  color: #000000;
+  text-decoration: none;
+}
+
+.feinman__link::after {
+  content: ' →';
+}
+
+.feinman__link:hover{
+  color: #2f80ed;
+}
+
+.feinman__link:active {
+  color: #2f80ed;
+}
+
+.feinman__link:visited {
+  text-decoration: underline;
+}

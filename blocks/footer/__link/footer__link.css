@@ -1,0 +1,14 @@
+.footer__link {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 400;
+  color: #ffffff;
+  text-decoration: none;
+  transition: ease-in-out .335s;
+}
+
+.footer__link:hover {
+  opacity: .5;
+}
