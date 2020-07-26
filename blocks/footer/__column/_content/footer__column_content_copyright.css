@@ -1,4 +1,7 @@
 .footer__column_content_copyright {
   flex-basis: 711px;
+  -ms-flex-preferred-size: 711px;
   justify-content: space-between;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
 }

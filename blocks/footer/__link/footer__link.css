@@ -7,6 +7,8 @@
   color: #ffffff;
   text-decoration: none;
   transition: ease-in-out .335s;
+  -webkit-transition: ease-in-out .335s;
+  -o-transition: ease-in-out .335s;
 }
 
 .footer__link:hover {

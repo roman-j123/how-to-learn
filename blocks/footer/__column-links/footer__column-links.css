@@ -2,6 +2,11 @@
   margin: 0 0 16px 0;
   padding: 0;
   display: flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
   flex-direction: column;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   list-style: none;
 }

@@ -1,5 +1,6 @@
-.footer__column {
-  min-height: 250px;
+.khan__container {
+  margin: 0 auto;
+  width: 80%;
   display: flex;
   display: -webkit-box;
   display: -ms-flexbox;

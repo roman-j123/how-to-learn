@@ -5,6 +5,8 @@
   color: #2f80ed;
   text-decoration: none;
   transition: ease-in-out .335s;
+  -webkit-transition: ease-in-out .335s;
+  -o-transition: ease-in-out .335s;
 }
 
 .header__link::after {

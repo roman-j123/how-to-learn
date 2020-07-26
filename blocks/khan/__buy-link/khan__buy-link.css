@@ -1,22 +1,18 @@
-.feinman__link {
-  position: absolute;
-  top: 50%;
-  right: 48px;
-  font-size: 36px;
-  line-height: 51px;
+.khan__buy-link {
+  font-size: 30px;
   font-weight: 400;
-  color: #000000;
+  line-height: 42px;
+  color: #2f80ed;
   text-decoration: none;
   transition: ease-in-out .335s;
   -webkit-transition: ease-in-out .335s;
   -o-transition: ease-in-out .335s;
 }
 
-.feinman__link::after {
+.khan__buy-link::after {
   content: ' →';
 }
 
-.feinman__link:hover{
+.khan__buy-link:hover {
   opacity: .5;
 }
-
