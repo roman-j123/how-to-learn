@@ -30,6 +30,7 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__iframe-item/video__iframe-item.css);
 
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__container/khan__container.css);
